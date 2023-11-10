@@ -8,6 +8,12 @@
 // ink level (in milimeters) and ink color. It will also have the
 // ability to retrieve its current value for the ink level and 
 // ink color.
+//
+// Execution Instructions
+// Type the following commands into a CLI with g++ installed:
+//
+// g++ KoltenPulliamA4.cpp -o a4
+// ./a4
 //*****************************************************************
 #include <iostream> 
 #include <string>
